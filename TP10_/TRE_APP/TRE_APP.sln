@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRE_APP", "TRE_APP\TRE_APP.csproj", "{D279F168-2E01-42B4-9D3B-AC4584FB6B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D279F168-2E01-42B4-9D3B-AC4584FB6B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D279F168-2E01-42B4-9D3B-AC4584FB6B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D279F168-2E01-42B4-9D3B-AC4584FB6B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D279F168-2E01-42B4-9D3B-AC4584FB6B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E810A9-63F0-4A26-861B-6BDDAC04846C}
+	EndGlobalSection
+EndGlobal
